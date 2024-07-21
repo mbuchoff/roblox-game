@@ -20,5 +20,5 @@ jobs:
           api-key: ${{ secrets.ROBLOX_API_KEY }}
           universe-id: 6296876273
           place-id: 0
-          place-file: place1.rbxlx
+          place-file: Place1.rbxlx
           version-type: Saved  # Optional, defaults to Saved. Can be either Saved or Published.
